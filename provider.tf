@@ -11,7 +11,7 @@ terraform {
     organization = "Simetrik"
 
     workspaces {
-      name = "test-ec2"
+      name = "terraform-cloud-test"
     }
   }
 }
